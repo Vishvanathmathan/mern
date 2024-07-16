@@ -1,0 +1,8 @@
+A callback function passed as an arugment to another function
+
+map()
+creates new array with the result of the same operation.the call back value is used create new array.
+ SYNTAX, --
+   arr.map(()=
+filter()
+reduce()

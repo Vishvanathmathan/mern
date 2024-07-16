@@ -1,0 +1,9 @@
+p:hover{
+    color :brown;
+    font-size: large;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qDhC56Z_Tme0AVJ4x8xZOdTetAzV5X4KPA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

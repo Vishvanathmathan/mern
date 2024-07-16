@@ -1,0 +1,15 @@
+body{
+    background-image:url("./fm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+

@@ -1,0 +1,24 @@
+#wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: inline;
+}
+
+.like{
+    width: 10%;
+    height: 10%;
+    z-index: 1;
+    margin: 12rem;
+    opacity: 0.5;
+    user-select: none;
+}
+
+.post{
+    /* margin: 200px 10px; */
+    position: absolute;
+    justify-self: center;
+    align-self: center;
+    z-index: -1;
+}
